@@ -1,3 +1,5 @@
+//[3장 문제 1]
+
 #define _CRT_SECURE_NO_WARNINGS 
 #include <iostream>
 #include <cstring>
@@ -704,8 +706,8 @@ int main() {
   // 2) 프로그램의 맨 앞쪽 주석 부분의 "Author: " 행 다음의 내용을 아래 *로 시작하는 행들로 교체하라.
   //----------------------------------------------------------------------------
 
-/*
-* +struct Person을 class Person으로 변경
+*
+*+struct Person을 class Person으로 변경
 * +Person의 멤버 함수들 구현
 * +UI::inputPerson() 수정
 * +ClassAndObject 클래스 추가 :
